@@ -1,11 +1,7 @@
 
-Ming Zhang's Online Resume
+Online Resume
 ==========================
 
-About Ming Zhang
+About
 ----------------
-Get more info at [his website](http://mingzhang.me/).
-
-About this project
-------------------
-This is where I make my resume more interactive.
+Interactive resume.
